@@ -41,6 +41,13 @@ This project is an interactive **Power BI dashboard** analyzing grocery sales an
 ---
 
 ## 📸 Dashboard Preview
+![WhatsApp Image 2025-08-24 at 7 07 55 PM](https://github.com/user-attachments/assets/0cc60a80-7e6c-445d-b528-129c0c138db3)
+![WhatsApp Image 2025-08-24 at 7 07 57 PM](https://github.com/user-attachments/assets/4c57a273-6e73-406c-ad44-527e89b083ed)
+![WhatsApp Image 2025-08-24 at 7 07 56 PM](https://github.com/user-attachments/assets/f7b92623-4d84-44c4-99f8-897fe7a25cb0)
+![WhatsApp Image 2025-08-24 at 7 07 55 PM (2)](https://github.com/user-attachments/assets/ba2d79a6-cada-47cd-9e62-1833437c9a04)
+
+
+
 
 ---
 
