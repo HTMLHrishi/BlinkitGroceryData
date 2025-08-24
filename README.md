@@ -1,5 +1,5 @@
 # BlinkitGroceryData
-v# Blinkit Grocery Data Analysis 📊
+# Blinkit Grocery Data Analysis 📊
 
 This project is an interactive **Power BI dashboard** analyzing grocery sales and operational performance data from Blinkit. The dashboard provides insights into customer behavior, sales trends, product performance, and inventory planning.
 
